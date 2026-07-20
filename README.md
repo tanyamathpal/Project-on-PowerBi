@@ -1,1 +1,1 @@
-This is a project conducted over PowerBI. It provides insights over the PowerBi application and how to utilize it with real life data to create menaingful visualization to understand large and complex dataset in a single glNCE
+This is a project conducted over PowerBI. It provides insights over the PowerBi application and how to utilize it with real life data to create menaingful visualization to understand large and complex dataset in a single glance
